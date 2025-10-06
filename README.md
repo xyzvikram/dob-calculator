@@ -18,3 +18,5 @@ A simple *DOB to Age Calculator* using *HTML, CSS, and JavaScript*.
 
 ## 🌐 Live Demo
 [👉 View on GitHub Pages](https://xyzvikram.github.io/dob-calculator/)
+
+---
